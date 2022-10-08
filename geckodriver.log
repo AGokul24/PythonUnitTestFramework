@@ -1,0 +1,244 @@
+1664734592548	geckodriver	INFO	Listening on 127.0.0.1:52525
+1664734595655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileansL3e"
+1664734596682	Marionette	INFO	Marionette enabled
+1664734596693	Marionette	INFO	Listening on port 52546
+Read port: 52546
+WebDriver BiDi listening on ws://127.0.0.1:52526
+1664734596977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileansL3e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52526/devtools/browser/a13d9e82-e5ae-4b20-be4c-16cce9059768
+1664734642416	Marionette	INFO	Stopped listening on port 52546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilewc2UW1"
+1664734607539	Marionette	INFO	Marionette enabled
+1664734607546	Marionette	INFO	Listening on port 52588
+Read port: 52588
+WebDriver BiDi listening on ws://127.0.0.1:52577
+1664734607702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilewc2UW1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52577/devtools/browser/2992431f-bdb1-411b-adb3-bcf31d2b05d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664734620774	Marionette	INFO	Stopped listening on port 52588
+1664787869441	geckodriver	INFO	Listening on 127.0.0.1:62268
+1664787872496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileLKR8OH"
+1664787873028	Marionette	INFO	Marionette enabled
+1664787873033	Marionette	INFO	Listening on port 62278
+Read port: 62278
+WebDriver BiDi listening on ws://127.0.0.1:62269
+1664787873162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileLKR8OH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62269/devtools/browser/2e39d107-44fd-4310-9686-8dedef390d22
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664789520452	Marionette	INFO	Stopped listening on port 62278
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile8jOX4W"
+1664788074921	Marionette	INFO	Marionette enabled
+1664788074927	Marionette	INFO	Listening on port 62393
+Read port: 62393
+WebDriver BiDi listening on ws://127.0.0.1:62384
+1664788075132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile8jOX4W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62384/devtools/browser/1a2aa1b9-b623-4e45-a7bb-30bc46aac89b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664789519043	Marionette	INFO	Stopped listening on port 62393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileAFr2K6"
+1664788176502	Marionette	INFO	Marionette enabled
+1664788176507	Marionette	INFO	Listening on port 62481
+Read port: 62481
+WebDriver BiDi listening on ws://127.0.0.1:62470
+1664788176704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileAFr2K6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62470/devtools/browser/fbb065e7-7c2f-498c-8324-8564aeeecb9a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664789517345	Marionette	INFO	Stopped listening on port 62481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofiley7MRCc"
+1664788227990	Marionette	INFO	Marionette enabled
+1664788227994	Marionette	INFO	Listening on port 62560
+Read port: 62560
+WebDriver BiDi listening on ws://127.0.0.1:62550
+1664788228173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofiley7MRCc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62550/devtools/browser/c7e9ad99-7ca1-4af2-adfd-d781a814f76a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664789516019	Marionette	INFO	Stopped listening on port 62560
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7XyoFU"
+1664788513277	Marionette	INFO	Marionette enabled
+1664788513283	Marionette	INFO	Listening on port 62789
+Read port: 62789
+WebDriver BiDi listening on ws://127.0.0.1:62770
+1664788513463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7XyoFU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62770/devtools/browser/0f16370f-523c-44e6-910e-acbde8b9b37d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664789514462	Marionette	INFO	Stopped listening on port 62789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664791342766	geckodriver	INFO	Listening on 127.0.0.1:53061
+1664791345798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileUz5mNF"
+1664791346482	Marionette	INFO	Marionette enabled
+1664791346486	Marionette	INFO	Listening on port 53075
+WebDriver BiDi listening on ws://127.0.0.1:53062
+Read port: 53075
+1664791346874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileUz5mNF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53062/devtools/browser/897b250b-ab85-457d-a1eb-d47cb470bbea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664791369936	Marionette	INFO	Stopped listening on port 53075
+1664802215811	geckodriver	INFO	Listening on 127.0.0.1:56730
+1664802218841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilee0lknq"
+1664802219377	Marionette	INFO	Marionette enabled
+1664802219382	Marionette	INFO	Listening on port 56740
+Read port: 56740
+WebDriver BiDi listening on ws://127.0.0.1:56731
+1664802219506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilee0lknq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56731/devtools/browser/0806e82c-0df6-473a-ba69-a52bfa26d345
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664802242841	Marionette	INFO	Stopped listening on port 56740
+1664977644771	geckodriver	INFO	Listening on 127.0.0.1:58825
+1664977647810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilegcHOPP"
+1664977648394	Marionette	INFO	Marionette enabled
+1664977648403	Marionette	INFO	Listening on port 58837
+Read port: 58837
+WebDriver BiDi listening on ws://127.0.0.1:58826
+1664977648573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilegcHOPP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58826/devtools/browser/ebdfe9e0-5030-41fb-8dd9-b8b1ca310c17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664977672231	Marionette	INFO	Stopped listening on port 58837
+1664977690600	geckodriver	INFO	Listening on 127.0.0.1:58903
+1664977693656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileFMrpyf"
+1664977694186	Marionette	INFO	Marionette enabled
+1664977694193	Marionette	INFO	Listening on port 58915
+Read port: 58915
+WebDriver BiDi listening on ws://127.0.0.1:58904
+1664977694349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileFMrpyf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58904/devtools/browser/300b2e0b-3e5a-4a4e-8f5f-62d621e70d62
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664977722110	Marionette	INFO	Stopped listening on port 58915
+1664979056370	geckodriver	INFO	Listening on 127.0.0.1:59594
+1664979059420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileURAhpc"
+1664979059912	Marionette	INFO	Marionette enabled
+1664979059920	Marionette	INFO	Listening on port 59606
+Read port: 59606
+WebDriver BiDi listening on ws://127.0.0.1:59595
+1664979060079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileURAhpc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59595/devtools/browser/97640bb4-e380-4e30-ba59-4bfc295d3034
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664979087876	Marionette	INFO	Stopped listening on port 59606
+1664979235890	geckodriver	INFO	Listening on 127.0.0.1:59736
+1664979238942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7yHsgY"
+1664979239423	Marionette	INFO	Marionette enabled
+1664979239430	Marionette	INFO	Listening on port 59748
+Read port: 59748
+WebDriver BiDi listening on ws://127.0.0.1:59737
+1664979239620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7yHsgY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59737/devtools/browser/8cadeabc-4179-4108-9a66-ce888ac82e0d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664979268247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664979273759	Marionette	INFO	Stopped listening on port 59748
+1664979463411	geckodriver	INFO	Listening on 127.0.0.1:60087
+1664979466451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilecOxcRz"
+1664979466949	Marionette	INFO	Marionette enabled
+1664979466957	Marionette	INFO	Listening on port 60098
+Read port: 60098
+WebDriver BiDi listening on ws://127.0.0.1:60088
+1664979467113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilecOxcRz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60088/devtools/browser/e8168a0e-8c8f-4bf9-95cd-3a2ba993f1db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664979501171	Marionette	INFO	Stopped listening on port 60098
+1664979584316	geckodriver	INFO	Listening on 127.0.0.1:60204
+1664979587357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileHxrQsk"
+1664979587826	Marionette	INFO	Marionette enabled
+1664979587833	Marionette	INFO	Listening on port 60215
+Read port: 60215
+WebDriver BiDi listening on ws://127.0.0.1:60205
+1664979588013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileHxrQsk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60205/devtools/browser/5821621a-36e6-418b-b32f-64efc1362903
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664979622273	Marionette	INFO	Stopped listening on port 60215
+1664979764213	geckodriver	INFO	Listening on 127.0.0.1:60357
+1664979767274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilemLJQux"
+1664979767732	Marionette	INFO	Marionette enabled
+1664979767738	Marionette	INFO	Listening on port 60369
+WebDriver BiDi listening on ws://127.0.0.1:60358
+Read port: 60369
+1664979768041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofilemLJQux\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60358/devtools/browser/4264acab-3947-443e-a4a1-ac2c7fcfaecd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664979802133	Marionette	INFO	Stopped listening on port 60369
+1664979899820	geckodriver	INFO	Listening on 127.0.0.1:60484
+1664979902876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7q2BvB"
+1664979903394	Marionette	INFO	Marionette enabled
+1664979903401	Marionette	INFO	Listening on port 60497
+Read port: 60497
+WebDriver BiDi listening on ws://127.0.0.1:60485
+1664979903558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofile7q2BvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60485/devtools/browser/dd8daaf5-4486-4b0d-848b-e687990996c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664979937283	Marionette	INFO	Stopped listening on port 60497
+1664980276696	geckodriver	INFO	Listening on 127.0.0.1:60772
+1664980279748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofiler6CEmo"
+1664980280247	Marionette	INFO	Marionette enabled
+1664980280254	Marionette	INFO	Listening on port 60784
+Read port: 60784
+WebDriver BiDi listening on ws://127.0.0.1:60773
+1664980280408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofiler6CEmo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60773/devtools/browser/6c913067-4703-429b-8e5c-1072710ad098
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664980303852	Marionette	INFO	Stopped listening on port 60784
+1664980883053	geckodriver	INFO	Listening on 127.0.0.1:61264
+1664980886113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileVNPrbw"
+1664980886491	Marionette	INFO	Marionette enabled
+1664980886495	Marionette	INFO	Listening on port 61276
+Read port: 61276
+WebDriver BiDi listening on ws://127.0.0.1:61265
+1664980886616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileVNPrbw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61265/devtools/browser/114a2ed5-84a0-447d-844e-f6c837baa345
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664980908601	Marionette	INFO	Stopped listening on port 61276
+1664980919169	geckodriver	INFO	Listening on 127.0.0.1:61333
+1664980922204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileNVk8KC"
+1664980922467	Marionette	INFO	Marionette enabled
+1664980922472	Marionette	INFO	Listening on port 61345
+WebDriver BiDi listening on ws://127.0.0.1:61334
+Read port: 61345
+1664980922642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOKULA~1\\AppData\\Local\\Temp\\rust_mozprofileNVk8KC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61334/devtools/browser/263bcadd-008f-4dc6-ad24-ebbc4102f77b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://katalon-demo-cura.herokuapp.com."
+1664980954643	Marionette	INFO	Stopped listening on port 61345

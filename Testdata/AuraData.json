@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://katalon-demo-cura.herokuapp.com/profile.php#login",
+    "username": "John Doe",
+    "password": "ThisIsNotAPassword",
+    "indexOfDropdown": "Hongkong CURA Healthcare Center",
+    "comment": "The treatment can take about a month"
+}
